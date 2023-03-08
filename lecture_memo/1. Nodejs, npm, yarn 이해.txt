@@ -1,0 +1,2 @@
+node js npm yarn 설치법
+터미널 cli 단축어 연습
